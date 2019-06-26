@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-stream",
-  "version": "1.70.0-master",
+  "version": "1.70.0-release-public-lib-prod",
   "description": "stream utilities",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-stream.git",
